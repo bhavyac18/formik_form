@@ -18,3 +18,6 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory: `cd formik_form`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
+
+### Licence
+MIT License Copyright (c) 2020 John Williams
